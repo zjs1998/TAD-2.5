@@ -4,8 +4,11 @@ Formula for text-as-data research
 
 What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
 
+I am not sure what questions I can answer using text as data. 
+
 
 What source of text data will you use?
+
 
 What are two possible answers to the question?
 
