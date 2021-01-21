@@ -6,7 +6,7 @@ What question do you want to answer? This should be something you *actually* wan
 How has Antonio Brown's tweets have changed prior to getting a concussion and after?
 
 What source of text data will you use?
-Tweets
+I will be using Antonio Brown's tweets.
 
 What are two possible answers to the question?
 Two possible answers are there is a significant difference between his tweets or there isn't a significant difference.
