@@ -3,13 +3,13 @@ Formula for text-as-data research
 
 What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
 
-How has Antonio Brown's tweets have changed prior to getting a concussion and after?
+How has Antonio Brown's tweets have changed prior to getting a concussion (hit by Burfict) and after?
 
 What source of text data will you use?
 I will be using Antonio Brown's tweets.
 
 What are two possible answers to the question?
-Two possible answers are there is a significant difference between his tweets or there isn't a significant difference.
+Two possible answers are there is or isn't a significant difference between how he was tweeting.
 
 How will the results of the quantitative text analysis demonstrate which of those answers is correct?
-The results of the quantitative text analysis will show how many different type of unique words were used before and after.
+The results of the quantitative text analysis will show how many different type of unique words were used before and after the concussion.
