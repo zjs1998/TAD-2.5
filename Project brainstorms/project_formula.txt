@@ -4,10 +4,19 @@ Formula for text-as-data research
 
 What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
 
+I'm interested in whether people who engage educational memes on instagram learn anything. I am also interested in whether neoliberalism actually means anything given. 
+
+The only question I can think of is: How does Pitchfork review and grade music?
+
 
 What source of text data will you use?
 
+Pitchfork music reviews
+
 What are two possible answers to the question?
 
+Quality of music as defined by musicality or quality of vibe as defined by descriptive language in review
+
 How will the results of the quantitative text analysis demonstrate which of those answers is correct?
+
 
