@@ -2,7 +2,7 @@
 
 #quateda has a number of descriptive statistics available for reporting on texts.  
 #The **simplest of these** is through the `summary()` method:
-
+install.packages("quanteda")
 require(quanteda)
 txt <- c(sent1 = "This is an example of the summary method for character objects.",
          sent2 = "The cat in the hat swung the bat.")
