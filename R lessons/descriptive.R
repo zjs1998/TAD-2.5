@@ -35,9 +35,10 @@ readab <- textstat_readability(corpus_subset(data_corpus_inaugural, Year > 1980)
 ## Presidential Inaugural Address Corpus
 presDfm <- dfm(data_corpus_inaugural, remove = stopwords("english"))
 # compute some document similarities
-textstat_simil(presDfm, "1985-Reagan",  margin = "documents")
+textstat_simil(presDfm, presDfm["1985-Reagan",],  margin = "documents")
+?textstat_simil
 
-textstat_simil(presDfm, c("2009-Obama", "2013-Obama"), margin = "documents", method = "cosine")
+textstat_simil(presDfm,presDfm[c("2009-Obama", "2013-Obama"),], margin = "documents", method = "cosine")
 
 #And this can be used for **clustering documents**:
 
